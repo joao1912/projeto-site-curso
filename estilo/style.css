@@ -3,7 +3,7 @@
     font-size: 16px;
 }
 body {
-background-color: rgb(248, 114, 237);
+background-color: rgb(114, 221, 248);
 }
 main {
     background-color: aliceblue;
@@ -11,4 +11,7 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+img.lado {
+    float: right;
 }
